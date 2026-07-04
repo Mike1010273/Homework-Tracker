@@ -26,6 +26,11 @@ button{
 button:hover{
    background:#388E3C;
 }
+#message{
+   color:darkblue;
+   font-weight:bold;
+}
+
 
 
 
